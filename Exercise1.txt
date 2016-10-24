@@ -1,0 +1,4 @@
+//size is visible within UnitMatrix class - lines 01 to 20
+//newSize is visible within setSize method - lines 04 to 06
+//i is visible within the first for loop within print method - lines 09 to 18
+//j is visible within the second for loop within print method - lines 10 to 16
